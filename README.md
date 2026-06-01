@@ -4,4 +4,4 @@ Les notebooks s'affichent avec une erreur sur GitHub (bug connu de GitHub avec n
 
 Le projet fonctionne parfaitement. Pour voir les notebooks, utilisez ce lien :
 
-👉 [Ouvrir dans Google Colab](https://colab.research.google.com/github/aziza-halmaouy/ML-Projet)
+[Ouvrir dans Google Colab](https://colab.research.google.com/github/aziza-halmaouy/ML-Projet)
